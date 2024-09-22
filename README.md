@@ -1,6 +1,7 @@
 This Project allows for the scraping of a webpage in order that it might be translated or summarized by an LLM through an API key. 
 
 The first python file, web1.py is based off beautifulSoup, and does not require the installation of any executables, but only python libraries. 
+
 pip install beautifulsoup4 requests should be enough to run it.
 ![web1](https://github.com/user-attachments/assets/9ed2db33-8d08-44a4-b644-693c9e4f1348)
 
@@ -14,5 +15,5 @@ pip install beautifulsoup4 requests selenium will be the pip command.
 The third python file, test.py is the second python file but without a Tkinter GUI, you will have to manually configure values if you run it.
 pip install beautifulsoup4 requests selenium will be the pip command.
 
-To install the Chrome Webdriver, check your Chromium- based Browser's  Chromium version, and install the chromedriver accordingly from https://googlechromelabs.github.io/chrome-for-testing/ or https://developer.chrome.com/docs/chromedriver/downloads if its an older version.'
+To install the Chrome Webdriver, check your Chromium- based Browser's  Chromium version, and install the chromedriver accordingly from https://googlechromelabs.github.io/chrome-for-testing/ or https://developer.chrome.com/docs/chromedriver/downloads if it is an older version.
 
